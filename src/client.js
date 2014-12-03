@@ -10,10 +10,10 @@
 /* jshint evil:false */
 /* global chrome:true */
 
-var Logger = require('fb-flow/client/logger');
-var Connection = require('fb-flow/client/connection');
-var Session = require('fb-flow/session');
-var WebSocket = require('fb-flow/test/client/browser_websocket');
+var Logger = require('fb-flo/client/logger');
+var Connection = require('fb-flo/client/connection');
+var Session = require('fb-flo/client/session');
+var WebSocket = require('fb-flo/test/client/browser_websocket');
 
 var fix = global || window;
 fix.Connection = Connection;

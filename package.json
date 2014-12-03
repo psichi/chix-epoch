@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build-client": "browserify src/client.js client/bundle.js"
+    "build-client": "browserify src/client.js -o client/bundle.js"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,28 @@
+{
+  "name": "chix-epoch",
+  "version": "0.0.1",
+  "description": "In the beginning there was nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/psichi/chix-epoch.git"
+  },
+  "keywords": [
+    "epoch",
+    "nothing",
+    "nada",
+    "empty"
+  ],
+  "author": "Rob Halff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psichi/chix-epoch/issues"
+  },
+  "homepage": "https://github.com/psichi/chix-epoch",
+  "dependencies": {
+    "fb-flo": "^0.3.1"
+  }
+}

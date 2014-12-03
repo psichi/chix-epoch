@@ -16,4 +16,6 @@ Therefor we should increase reusability, so what is created can still be sold.
 
 Falling behind is not an option. Standing still is decline.
 
+Generation, automation. Must keep up with creation for standing still is decline.
+
 

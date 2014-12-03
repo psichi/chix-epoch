@@ -4,7 +4,8 @@
   "description": "In the beginning there was nothing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-client": "browserify src/client.js client/bundle.js"
   },
   "repository": {
     "type": "git",

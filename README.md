@@ -18,4 +18,6 @@ Falling behind is not an option. Standing still is decline.
 
 Generation, automation. Must keep up with creation for standing still is decline.
 
+What is created by hand must be automated so it can be optimized and sold.
 
+Learn creation, understand creation, optimize, generate, automate, predict.
